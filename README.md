@@ -7,6 +7,10 @@
 
 An interactive, story-driven quantum computing adventure that transforms complex scientific concepts into hands-on experiments, missions, challenges, and laboratory discoveries.
 
+
+![](https://github.com/lucylow/quantum-love-collider/blob/main/Quantum%20Love%20Collider.png?raw=true)
+
+
 </p>
 
 ---

@@ -1,5 +1,5 @@
 # 💗 QUANTUM LOVE COLLIDER
-### A Quantum Physics Adventure Game | Interactive Quantum Computing Laboratory | Educational Science Platform
+### SAVE THE COLLIDER : A Quantum Physics Adventure Game | Interactive Quantum Computing Laboratory | Educational Science Platform
 
 <p align="center">
 
